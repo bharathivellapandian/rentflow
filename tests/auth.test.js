@@ -18,3 +18,5 @@ assert(!permissions.tenant.includes('properties'));
 assert(!permissions.tenant.includes('admin'));
 
 console.log('RentFlow authorization reference tests passed.');
+
+//test for the git account check

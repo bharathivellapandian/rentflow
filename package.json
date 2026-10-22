@@ -1,0 +1,11 @@
+{
+  "name": "rentflow-property-management-prototype",
+  "version": "0.1.0",
+  "private": true,
+  "description": "RentFlow property management front-end prototype",
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "test": "node tests/auth.test.js"
+  },
+  "license": "UNLICENSED"
+}

@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Environment/secrets
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependencies/build outputs for future Node/React migration
+node_modules/
+dist/
+build/
+coverage/
+
+# Temporary files
+*.tmp
+*.swp
